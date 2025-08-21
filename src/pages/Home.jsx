@@ -55,6 +55,10 @@ const Home = () => {
             </div>
           </div>
         ))}
+        div class="frame">
+    
+    <div class="vertical-text">Design By Swapnil Popalghat</div>
+  </div>
       </div>
     </div>
   )
